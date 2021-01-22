@@ -1,4 +1,4 @@
-
+//https://github.com/skmishal/third-assignment
 
 //solution of the 1st problem:
 function kilometerToMeter (km){
@@ -37,7 +37,7 @@ return bill;
 }
 
 
-//solution of 4th problem:
+//solution of the 4th problem:
 function megaFriend (names){
     var longest = names[0];
 for(var i = 0; i < names.length; i++){
